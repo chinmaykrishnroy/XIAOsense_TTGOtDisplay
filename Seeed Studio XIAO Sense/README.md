@@ -1,3 +1,3 @@
-Required Libraris:
+Required Libraries:
 WiFi.h
 ArduinoWebsockets.h

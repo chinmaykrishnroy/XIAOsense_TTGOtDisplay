@@ -1,5 +1,5 @@
 # XIAOsense_TTGOtDisplay
-Stream real-time video from Seeed Studio XIAO Sense on 240*135 display of TTGO T-Display using WebSocket.
+Stream real-time video from Seeed Studio XIAO Sense on 240*135 display of TTGO T-Display using WebSockets.
 
 Output Image:
 ![IMG-20231218-WA0002](https://github.com/chinmaykrishnroy/XIAOsense_TTGOtDisplay/assets/65699140/c271654a-c7af-4c00-831f-3f40bb441a99)
